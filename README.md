@@ -11,13 +11,6 @@ If you feel like seeing other activities I've worked on, go <a href="https://git
   </a>
 </p>
 <br>
-<h3 align="center">Now Playing - Spotify</h3>
-<div align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=piegez&redirect=true">
-   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=piegez&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
- </a>
-</div>
-<br>
 Hope to see you here again soon 🤝
 
 <!---
