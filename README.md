@@ -7,7 +7,7 @@ If you feel like seeing other activities I've worked on, go <a href="https://git
 
 <h4 align="left">Languages and Tools:</h4>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,gulp,cs,css,figma,js,jquery,nodejs,sass,typescript,vercel,vscode,vue" />
+    <img src="https://skillicons.dev/icons?i=git,css,js,jquery,nodejs,typescript,vercel,vscode,vue" />
   </a>
 </p>
 <br>
