@@ -1,5 +1,5 @@
 👋 Hi, I’m Jessica - aka @piegez <br><br> 
-I'm currently deep-diving into Developer Full-Stack Python at EBAC. I'm working hard to finish this course in September and be ready to continue learning about coding and dev tools.<br><br>
+I'm currently deep-diving into Developer Full-Stack Python at EBAC. I'm working hard to finish this course in November and be ready to continue learning about coding and dev tools.<br><br>
 
 Even though I'm going to finish the course in September, I'm already looking for opportunities to work in this field and enhance my knowledge each and every day. 📖💻<br> <br>
 To check which are the main projects I've done so far, <a href="https://github.com/stars/piegez/lists/main-projects"> click here </a>. <br>
